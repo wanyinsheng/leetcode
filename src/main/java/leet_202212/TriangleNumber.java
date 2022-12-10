@@ -7,7 +7,6 @@ import java.util.Arrays;
  */
 public class TriangleNumber {
 	public int triangleNumber(int[] nums) {
-
 		int n=nums.length;
 		Arrays.sort(nums);
 		int ans=0;
