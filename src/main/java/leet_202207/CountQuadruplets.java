@@ -10,6 +10,7 @@ import java.util.Map;
  * @Version 1.0
  **/
 public class CountQuadruplets {
+
     public int countQuadruplets(int[] nums) {
         int n = nums.length;
         int ans = 0;
