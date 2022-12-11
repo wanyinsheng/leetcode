@@ -10,6 +10,7 @@ import java.util.List;
  * @Version 1.0
  **/
 public class SolveSudoku {
+
     private boolean[][] line = new boolean[9][9];
     private boolean[][] column = new boolean[9][9];
     private boolean[][][] block = new boolean[3][3][9];

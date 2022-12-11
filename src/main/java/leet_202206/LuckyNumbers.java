@@ -10,6 +10,7 @@ import java.util.List;
  * @Version 1.0
  **/
 public class LuckyNumbers {
+
     public List<Integer> luckyNumbers (int[][] matrix) {
         //行最小，列最大的元素
 

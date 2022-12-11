@@ -8,6 +8,7 @@ import java.util.Arrays;
  * @Version 1.0
  **/
 public class CheckInclusion {
+
     public boolean checkInclusion(String s1, String s2) {
         int n=s1.length();
         int m=s2.length();

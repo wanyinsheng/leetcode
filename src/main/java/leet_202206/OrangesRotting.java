@@ -15,6 +15,7 @@ import java.util.Queue;
  * @Version 1.0
  **/
 public class OrangesRotting {
+
     int[][] dirs = new int[][]{{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
 
     //多源广搜

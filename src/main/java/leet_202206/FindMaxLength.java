@@ -8,6 +8,7 @@ import java.util.HashMap;
  * @Version 1.0
  **/
 public class FindMaxLength {
+
     public int findMaxLength(int[] nums) {
         int maxLen = 0;
         HashMap<Integer, Integer> map = new HashMap<>();

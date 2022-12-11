@@ -7,6 +7,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class FindClosest {
+
     public int findClosest(String[] words, String word1, String word2) {
         int len=words.length;
         int ans=len;//初始化为最大

@@ -6,6 +6,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class RelativeSortArray {
+
     public int[] relativeSortArray(int[] arr1, int[] arr2) {
         int index=0;
         int[] cnt=new int[1001];

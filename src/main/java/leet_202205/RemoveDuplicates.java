@@ -6,6 +6,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class RemoveDuplicates {
+
     public int removeDuplicates(int[] nums) {
         int n = nums.length;
         if (n < 2) {

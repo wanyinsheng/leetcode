@@ -6,6 +6,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class FindDiagonalOrder {
+
     public int[] findDiagonalOrder(int[][] mat) {
         int m = mat.length;
         int n = mat[0].length;

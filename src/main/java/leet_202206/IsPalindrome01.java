@@ -12,6 +12,7 @@ import java.util.List;
  * @Version 1.0
  **/
 public class IsPalindrome01 {
+
     public boolean isPalindrome(ListNode head) {
         List<Integer> vals = new ArrayList<Integer>();
 

@@ -6,6 +6,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class MinCostClimbingStairs {
+
     public int minCostClimbingStairs(int[] cost) {
         int n=cost.length;
         int[] dp=new int[n+1];

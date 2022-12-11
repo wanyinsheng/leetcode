@@ -7,6 +7,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class VerifyPostorder {
+
     //方法1，使用递归
     public boolean verifyPostorder(int[] postorder) {
         return recur(postorder,0,postorder.length-1);

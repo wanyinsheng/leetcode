@@ -9,6 +9,7 @@ import java.util.Map;
  * @Version 1.0
  **/
 public class CountLargestGroup {
+
     public int countLargestGroup(int n) {
         HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
         int maxValue=0;

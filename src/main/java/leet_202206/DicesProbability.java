@@ -9,6 +9,7 @@ import java.util.Arrays;
  * @Version 1.0
  **/
 public class DicesProbability {
+
     public double[] dicesProbability(int n) {
        double[] dp= new double[6];
         Arrays.fill(dp,1.0/6.0);

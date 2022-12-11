@@ -8,6 +8,7 @@ import java.util.HashMap;
  * @Version 1.0
  **/
 public class SubarraySum {
+
     public int subarraySum(int[] nums, int k) {
         int count=0;
         int pre=0;

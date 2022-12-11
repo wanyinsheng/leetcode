@@ -7,6 +7,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class Maximum69Number {
+
     public int maximum69Number (int num) {
         String s = Integer.toString(num);
         char[] chars = s.toCharArray();

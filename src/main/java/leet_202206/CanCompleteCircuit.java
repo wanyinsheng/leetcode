@@ -8,6 +8,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class CanCompleteCircuit {
+
     public int canCompleteCircuit(int[] gas, int[] cost) {
         int n=gas.length;
         int i=0;

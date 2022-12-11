@@ -6,6 +6,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class ShortestToChar {
+
     public int[] shortestToChar(String s, char c) {
         int n=s.length();
         int[] ans=new int[n];

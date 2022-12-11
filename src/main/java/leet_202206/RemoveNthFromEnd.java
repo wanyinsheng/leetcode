@@ -9,6 +9,7 @@ import leet_202203.ListNode;
  * @Version 1.0
  **/
 public class RemoveNthFromEnd {
+
     public ListNode removeNthFromEnd(ListNode head, int n) {
         ListNode dummy = new ListNode(0);
         dummy.next=head;

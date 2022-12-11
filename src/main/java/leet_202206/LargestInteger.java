@@ -7,6 +7,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class LargestInteger {
+
     public int largestInteger(int num) {
         String s=Integer.toString(num);
         int n=s.length();

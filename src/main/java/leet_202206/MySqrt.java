@@ -7,6 +7,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class MySqrt {
+
     /**
      * 二分查找
      * @param x

@@ -11,6 +11,7 @@ import java.util.List;
  * @Version 1.0
  **/
 public class PathWithObstacles {
+
     private int m;
     private int n;
     private int[][] grid;

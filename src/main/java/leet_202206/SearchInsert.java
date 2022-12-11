@@ -6,6 +6,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class SearchInsert {
+
     public int searchInsert(int[] nums, int target) {
         int n=nums.length;
         int left=0;

@@ -6,6 +6,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class SetZeroes {
+
     public void setZeroes(int[][] matrix) {
         int m =matrix.length;
         int n=matrix[0].length;

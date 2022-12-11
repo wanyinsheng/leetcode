@@ -9,6 +9,7 @@ import java.util.Arrays;
  * @Version 1.0
  **/
 public class PivotIndex {
+
     public int pivotIndex(int[] nums) {
         //求数组的和
         int total = Arrays.stream(nums).sum();

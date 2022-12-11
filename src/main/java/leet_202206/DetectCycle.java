@@ -9,6 +9,7 @@ import leet_202203.ListNode;
  * @Version 1.0
  **/
 public class DetectCycle {
+
     public ListNode detectCycle(ListNode head) {
         if(head==null){
             return null;

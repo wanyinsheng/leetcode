@@ -7,6 +7,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class MaxAreaOfIsland {
+
     int rows;
     int cols;
     int[][] dirs=new int[][]{{-1,0},{1,0},{0,-1},{0,1}};

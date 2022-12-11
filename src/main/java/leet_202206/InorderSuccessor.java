@@ -11,6 +11,7 @@ import java.util.ArrayDeque;
  * @Version 1.0
  **/
 public class InorderSuccessor {
+
     public TreeNode inorderSuccessor(TreeNode root, TreeNode p) {
         ArrayDeque<TreeNode> stack = new ArrayDeque<>();
         TreeNode pre=null;

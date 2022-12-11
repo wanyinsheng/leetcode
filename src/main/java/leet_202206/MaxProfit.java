@@ -6,6 +6,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class MaxProfit {
+
     public int maxProfit(int[] prices) {
         int minPrice=Integer.MAX_VALUE;
         int maxProfit=0;

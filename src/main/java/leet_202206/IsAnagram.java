@@ -10,6 +10,7 @@ import java.util.HashMap;
  * @Version 1.0
  **/
 public class IsAnagram {
+
     public boolean isAnagram(String s, String t) {
         //相等不是异位词
         if (s.length() != t.length() || s.equals(t)) {

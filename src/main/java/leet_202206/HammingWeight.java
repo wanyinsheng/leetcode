@@ -7,6 +7,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class HammingWeight {
+
     public int hammingWeight(int n) {
         int ans=0;
         while(n!=0){

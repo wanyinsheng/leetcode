@@ -9,6 +9,7 @@ import java.util.*;
  * @Version 1.0
  **/
 public class SolveNQueens {
+
     public List<List<String>> solveNQueens(int n) {
         List<List<String>> solutions = new ArrayList<List<String>>();
         int[] queens = new int[n];

@@ -6,6 +6,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class OneEditAway {
+
     public boolean oneEditAway(String first, String second) {
         int m=first.length();
         int n=second.length();

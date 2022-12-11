@@ -9,6 +9,7 @@ import leet_202203.TreeNode;
  * @Version 1.0
  **/
 public class FindBottomLeftValue {
+
     int curHeight=0;
     int curVal=0;
     public int findBottomLeftValue(TreeNode root) {

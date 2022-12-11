@@ -10,6 +10,7 @@ import leet_202203.TreeNode;
  * @Version 1.0
  **/
 public class WidthOfBinaryTree {
+
     public int widthOfBinaryTree(TreeNode root) {
         return 0;
     }

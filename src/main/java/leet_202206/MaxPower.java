@@ -7,6 +7,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class MaxPower {
+
     public int maxPower(String s) {
         int count=1;//第一个字符
         int ans=0;

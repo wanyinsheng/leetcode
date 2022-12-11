@@ -11,6 +11,7 @@ import java.util.List;
  * @Version 1.0
  **/
 public class QueensAttacktheKing {
+
     //往八个方向扩散，找到即停止
     public List<List<Integer>> queensAttacktheKing(int[][] queens, int[] king) {
         final int SIDE = 8;

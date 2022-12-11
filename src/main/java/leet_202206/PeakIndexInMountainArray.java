@@ -7,6 +7,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class PeakIndexInMountainArray {
+
     public int peakIndexInMountainArray(int[] arr) {
         int n=arr.length;
         int left=0;

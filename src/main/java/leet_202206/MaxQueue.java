@@ -12,6 +12,7 @@ import java.util.Queue;
  * @Version 1.0
  **/
 public class MaxQueue {
+
     Queue<Integer> q;
     Deque<Integer> d;
 

@@ -8,6 +8,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class LongestValidParentheses {
+
     public int longestValidParentheses(String s) {
         int maxans = 0;
         int[] dp = new int[s.length()];

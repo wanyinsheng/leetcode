@@ -8,6 +8,7 @@ import leet_202203.TreeNode;
  * @Version 1.0
  **/
 public class MaxDepth {
+
     public int maxDepth(TreeNode root) {
         if(root==null)
             return 0;

@@ -11,6 +11,7 @@ import java.util.Map;
  * @Version 1.0
  **/
 public class FindLucky {
+
     public int findLucky(int[] arr) {
         HashMap<Integer, Integer> map = new HashMap<>();
         for (int num : arr) {

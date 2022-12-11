@@ -9,6 +9,7 @@ import java.util.Arrays;
  * @Version 1.0
  **/
 public class Makesquare {
+
     public boolean makesquare(int[] matchsticks) {
         int len = Arrays.stream(matchsticks).sum();
         //考虑总长度

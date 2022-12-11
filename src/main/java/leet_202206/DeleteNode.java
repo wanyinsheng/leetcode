@@ -8,6 +8,7 @@ import leet_202203.TreeNode;
  * @Version 1.0
  **/
 public class DeleteNode {
+
     public TreeNode deleteNode(TreeNode root, int key) {
         if (root == null) {
             return null;

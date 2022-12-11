@@ -8,6 +8,7 @@ package leet_202206;
  **/
 public class CheckPermutation {
 
+
     public boolean CheckPermutation(String s1, String s2) {
         //先考虑长度
         if(s1.length()!=s2.length()){

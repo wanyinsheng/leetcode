@@ -7,6 +7,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class LongestNiceSubstring {
+
     public String longestNiceSubstring(String s) {
         int n=s.length();
         int maxPos=0;

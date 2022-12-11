@@ -9,6 +9,7 @@ import leet_202203.ListNode;
  * @Version 1.0
  **/
 public class Partition {
+
     public ListNode partition(ListNode head, int x) {
         ListNode small = new ListNode(0);
         ListNode smallHead = small;

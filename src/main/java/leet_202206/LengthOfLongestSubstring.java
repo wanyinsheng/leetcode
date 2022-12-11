@@ -9,6 +9,7 @@ import java.util.HashSet;
  * @Version 1.0
  **/
 public class LengthOfLongestSubstring {
+
     public int lengthOfLongestSubstring(String s) {
         //判断有没有出现过
         HashSet<Character> set = new HashSet<>();

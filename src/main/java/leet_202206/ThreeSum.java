@@ -12,6 +12,7 @@ import java.util.List;
  * @Version 1.0
  **/
 public class ThreeSum {
+
     public List<List<Integer>> threeSum(int[] nums) {
         int n = nums.length;
         Arrays.sort(nums);

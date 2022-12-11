@@ -11,6 +11,7 @@ import java.util.List;
  * @Version 1.0
  **/
 public class ComputeSimilarities {
+
     public List<String> computeSimilarities(int[][] docs) {
         List<String> ans = new ArrayList<>();
         //构造倒排索引

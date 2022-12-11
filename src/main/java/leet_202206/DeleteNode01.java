@@ -8,6 +8,7 @@ import leet_202203.ListNode;
  * @Version 1.0
  **/
 public class DeleteNode01 {
+
     public void deleteNode(ListNode node) {
         node.val=node.next.val;
         node.next=node.next.next;

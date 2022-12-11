@@ -7,6 +7,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class SpiralOrder {
+
     public int[] spiralOrder(int[][] matrix) {
         if(matrix==null||matrix.length==0||matrix[0].length==0){
             return new int[0];

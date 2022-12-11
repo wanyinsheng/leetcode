@@ -6,6 +6,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class UniquePaths {
+
     public int uniquePaths(int m, int n) {
         int[][] dp=new int[m][n];
         for (int i = 0; i <m ; i++) {
