@@ -7,7 +7,12 @@ package leet_202212;
  * @Version 1.0
  **/
 public class Search {
-
+    /**
+     * 两次二分法
+     * @param nums
+     * @param target
+     * @return
+     */
     public int search(int[] nums, int target) {
 
         int n = nums.length;
