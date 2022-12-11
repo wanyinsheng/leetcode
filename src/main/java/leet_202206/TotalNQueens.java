@@ -11,6 +11,7 @@ import java.util.Set;
  * @Version 1.0
  **/
 public class TotalNQueens {
+
     public int totalNQueens(int n) {
         Set<Integer> columns = new HashSet<Integer>();
         Set<Integer> diagonals1 = new HashSet<Integer>();

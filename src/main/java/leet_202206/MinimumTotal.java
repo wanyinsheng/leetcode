@@ -8,6 +8,7 @@ import java.util.List;
  * @Version 1.0
  **/
 public class MinimumTotal {
+
     public int minimumTotal(List<List<Integer>> triangle) {
         int n = triangle.size();
         int[][] dp = new int[n][n];

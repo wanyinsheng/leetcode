@@ -7,6 +7,7 @@ package leet_202206;
  **/
 public class MinMaxGame {
     public int minMaxGame(int[] nums) {
+        
         int n = nums.length;
         while (n != 1) {
             int cnt = 0;

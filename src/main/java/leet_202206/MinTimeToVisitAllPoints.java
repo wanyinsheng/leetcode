@@ -8,6 +8,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class MinTimeToVisitAllPoints {
+
     public int minTimeToVisitAllPoints(int[][] points) {
         int res = 0;
         for (int i = 0; i < points.length - 1; i++) {

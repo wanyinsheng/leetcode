@@ -7,6 +7,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class IsAlienSorted {
+
     public boolean isAlienSorted(String[] words, String order) {
         int[] index = new int[26];
         //根据字典序建立索引

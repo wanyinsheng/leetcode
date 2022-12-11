@@ -12,6 +12,7 @@ import java.util.Map;
  * @Version 1.0
  **/
 public class MinWindow {
+
     Map<Character,Integer> map=new HashMap<Character,Integer>();
     public String minWindow(String s, String t) {
         int left=0;
