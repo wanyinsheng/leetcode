@@ -9,6 +9,7 @@ import java.util.List;
  * @Version 1.0
  **/
 public class FizzBuzz {
+
     public List<String> fizzBuzz(int n) {
         List<String> answer = new ArrayList<String>();
         for (int i = 1; i <= n; i++) {

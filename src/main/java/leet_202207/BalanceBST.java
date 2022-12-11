@@ -11,6 +11,7 @@ import java.util.List;
  * @Version 1.0
  **/
 public class BalanceBST {
+    
     //中序遍历List
     List<Integer> inorderSeq = new ArrayList<Integer>();
 

@@ -9,6 +9,7 @@ import java.util.Scanner;
  * @Version 1.0
  **/
 public class CountElements {
+
     public int countElements(int[] nums) {
 
         int small=Integer.MAX_VALUE;

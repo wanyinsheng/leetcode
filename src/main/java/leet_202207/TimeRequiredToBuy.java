@@ -6,6 +6,7 @@ package leet_202207;
  * @Version 1.0
  **/
 public class TimeRequiredToBuy {
+
     public int timeRequiredToBuy(int[] tickets, int k) {
         int n=tickets.length;
         int res=0;

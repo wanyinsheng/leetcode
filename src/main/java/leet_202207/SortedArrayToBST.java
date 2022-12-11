@@ -11,6 +11,7 @@ import java.util.Random;
  * @Version 1.0
  **/
 public class SortedArrayToBST {
+
     Random rand = new Random();
     public TreeNode sortedArrayToBST(int[] nums) {
         return helper(nums, 0, nums.length - 1);

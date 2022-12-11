@@ -8,6 +8,7 @@ package leet_202207;
  * @Version 1.0
  **/
 public class LenLongestFibSubseq {
+
     public int lenLongestFibSubseq(int[] arr) {
         return 0;
     }

@@ -7,6 +7,7 @@ package leet_202207;
  * @Version 1.0
  **/
 public class NextGreatestLetter {
+
     public char nextGreatestLetter(char[] letters, char target) {
         int length = letters.length;
         //在比较时，字母是依序循环出现的。所以letters最后一个字母的下一个字母就是letters[0]

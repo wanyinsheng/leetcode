@@ -9,6 +9,7 @@ import leet_202203.TreeNode;
  * @Version 1.0
  **/
 public class PathSum {
+
     public int pathSum(TreeNode root, int targetSum) {
         if(root==null)
             return 0;

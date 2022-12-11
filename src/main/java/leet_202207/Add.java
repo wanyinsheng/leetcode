@@ -6,6 +6,7 @@ package leet_202207;
  * @Version 1.0
  **/
 public class Add {
+
     public int add(int a, int b) {
         while(b != 0) { // 当进位为 0 时跳出
             //n=a^b   异或运算  非进位和

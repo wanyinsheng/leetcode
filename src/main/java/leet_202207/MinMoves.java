@@ -9,6 +9,7 @@ import java.util.Arrays;
  * @Version 1.0
  **/
 public class MinMoves {
+
     public int minMoves(int[] nums) {
         int ans=0;
         int minNum = Arrays.stream(nums).min().getAsInt();

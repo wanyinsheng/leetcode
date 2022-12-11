@@ -9,6 +9,7 @@ import java.util.PriorityQueue;
  * @Version 1.0
  **/
 public class KWeakestRows {
+
     public int[] kWeakestRows(int[][] mat, int k) {
         int row = mat.length;
         int col = mat[0].length;

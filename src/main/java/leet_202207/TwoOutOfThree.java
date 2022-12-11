@@ -10,6 +10,7 @@ import java.util.List;
  * @Version 1.0
  **/
 public class TwoOutOfThree {
+
     public List<Integer> twoOutOfThree(int[] nums1, int[] nums2, int[] nums3) {
         List<Integer> res = new ArrayList<>();
         int[] cache = new int[101];

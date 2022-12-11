@@ -7,6 +7,7 @@ package leet_202207;
  * @Version 1.0
  **/
 public class CountAsterisks {
+
     public int countAsterisks(String s) {
         if(s==null||s.length()==0){
             return 0;

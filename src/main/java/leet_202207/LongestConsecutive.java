@@ -9,6 +9,7 @@ import java.util.HashSet;
  * @Version 1.0
  **/
 public class LongestConsecutive {
+
     public int longestConsecutive(int[] nums) {
         HashSet<Integer> set = new HashSet<>();
         //先将所有的数添加到set中

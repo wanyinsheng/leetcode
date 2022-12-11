@@ -6,6 +6,7 @@ package leet_202207;
  * @Version 1.0
  **/
 public class AddBinary {
+
     /**
      * 模拟
      *

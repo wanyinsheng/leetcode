@@ -10,6 +10,7 @@ import java.util.List;
  * @Version 1.0
  **/
 public class ReadBinaryWatch {
+
     public List<String> readBinaryWatch(int turnedOn) {
         List<String> ans = new ArrayList<String>();
         for (int h = 0; h < 12; ++h) {

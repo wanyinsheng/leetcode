@@ -7,6 +7,7 @@ package leet_202207;
  * @Version 1.0
  **/
 public class PercentageLetter {
+
     public int percentageLetter(String s, char letter) {
         int n=s.length();
         int cnt=0;

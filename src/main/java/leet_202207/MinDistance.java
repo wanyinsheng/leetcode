@@ -6,6 +6,7 @@ package leet_202207;
  * @Version 1.0
  **/
 public class MinDistance {
+
     public int minDistance(String word1, String word2) {
         int n = word1.length();
         int m = word2.length();

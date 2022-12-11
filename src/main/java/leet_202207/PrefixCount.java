@@ -7,6 +7,7 @@ package leet_202207;
  * @Version 1.0
  **/
 public class PrefixCount {
+
     public int prefixCount(String[] words, String pref) {
         int count = 0;
         for (String s:words) {
