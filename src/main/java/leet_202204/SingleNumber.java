@@ -8,6 +8,7 @@ package leet_202204;
  * @Version 1.0
  **/
 public class SingleNumber {
+
     public int singleNumber(int[] nums) {
         int ans = 0;
         for (int i = 0; i <32 ; i++) {

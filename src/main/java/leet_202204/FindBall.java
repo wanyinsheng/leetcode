@@ -7,6 +7,7 @@ package leet_202204;
  * @Version 1.0
  **/
 public class FindBall {
+
     public int[] findBall(int[][] grid) {
         int rows=grid.length;
         int cols=grid[0].length;

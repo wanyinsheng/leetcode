@@ -13,6 +13,7 @@ import java.util.Properties;
  * @Version 1.0
  **/
 public class FindMinHeightTrees {
+
     public List<Integer> findMinHeightTrees(int n, int[][] edges) {
 
         List<Integer> ans = new ArrayList<Integer>();

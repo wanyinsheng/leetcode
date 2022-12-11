@@ -8,6 +8,7 @@ import java.util.Arrays;
  * @Version 1.0
  **/
 public class PivotIndex {
+
     public int pivotIndex(int[] nums) {
         int total = Arrays.stream(nums).sum();//还有这种求和方式
         int sum = 0;

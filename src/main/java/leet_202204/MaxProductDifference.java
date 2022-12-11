@@ -6,6 +6,7 @@ package leet_202204;
  * @Version 1.0
  **/
 public class MaxProductDifference {
+
     public int maxProductDifference(int[] nums) {
         int max1 = Math.max(nums[0], nums[1]);
         int max2 = Math.min(nums[0], nums[1]);

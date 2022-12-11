@@ -11,6 +11,7 @@ import java.util.Queue;
  * @Version 1.0
  **/
 public class RightSideView {
+
     public List<Integer> rightSideView(TreeNode root) {
 
         Queue<TreeNode> queue=new LinkedList<TreeNode>();

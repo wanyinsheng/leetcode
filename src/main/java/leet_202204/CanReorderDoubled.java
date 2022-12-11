@@ -11,6 +11,7 @@ import java.util.HashMap;
  * @Version 1.0
  **/
 public class CanReorderDoubled {
+
     public boolean canReorderDoubled(int[] arr) {
         HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
         for(int x:arr){

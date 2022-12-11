@@ -9,6 +9,7 @@ import java.util.Set;
  * @Version 1.0
  **/
 public class LengthOfLongestSubstring {
+
     public int lengthOfLongestSubstring(String s) {
         HashSet<Character> set = new HashSet<>();
         int n=s.length();

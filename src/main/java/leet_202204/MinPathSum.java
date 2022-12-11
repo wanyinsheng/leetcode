@@ -6,6 +6,7 @@ package leet_202204;
  * @Version 1.0
  **/
 public class MinPathSum {
+
     public int minPathSum(int[][] grid) {
         //特殊情况考虑
         if(grid==null||grid.length==0||grid[0].length==0)

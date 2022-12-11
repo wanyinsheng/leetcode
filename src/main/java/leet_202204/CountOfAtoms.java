@@ -9,6 +9,7 @@ import java.util.*;
  **/
 public class CountOfAtoms {
 
+
     int i, n;
     String formula;
 

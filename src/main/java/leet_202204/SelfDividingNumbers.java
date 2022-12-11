@@ -9,6 +9,7 @@ import java.util.List;
  * @Version 1.0
  **/
 public class SelfDividingNumbers {
+
     public List<Integer> selfDividingNumbers(int left, int right) {
         ArrayList<Integer> list = new ArrayList<>();
 

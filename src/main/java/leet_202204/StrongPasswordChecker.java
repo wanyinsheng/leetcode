@@ -8,6 +8,7 @@ import java.util.Properties;
  * @Version 1.0
  **/
 public class StrongPasswordChecker {
+
     public int strongPasswordChecker(String password) {
 
         return 0;

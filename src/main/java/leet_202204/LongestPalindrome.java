@@ -6,6 +6,7 @@ package leet_202204;
  * @Version 1.0
  **/
 public class LongestPalindrome {
+
     /**
      * 使用动态规划
      *

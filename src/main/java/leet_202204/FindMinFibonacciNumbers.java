@@ -8,6 +8,7 @@ import java.util.ArrayList;
  * @Version 1.0
  **/
 public class FindMinFibonacciNumbers {
+    
     public int findMinFibonacciNumbers(int k) {
         ArrayList<Integer> list = new ArrayList<>();
         list.add(1);//因为可以重复使用，所以这里只放一个1，即1，2，3...

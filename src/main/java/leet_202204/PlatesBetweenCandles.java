@@ -6,6 +6,7 @@ package leet_202204;
  * @Version 1.0
  **/
 public class PlatesBetweenCandles {
+
     public int[] platesBetweenCandles(String s, int[][] queries) {
 
         return null;

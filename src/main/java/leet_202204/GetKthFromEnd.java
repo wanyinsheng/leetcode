@@ -6,6 +6,7 @@ package leet_202204;
  * @Version 1.0
  **/
 public class GetKthFromEnd {
+
     /**
      * 顺序查找
      * @param head

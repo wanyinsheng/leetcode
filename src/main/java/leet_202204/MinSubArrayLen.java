@@ -6,6 +6,7 @@ package leet_202204;
  * @Version 1.0
  **/
 public class MinSubArrayLen {
+
     /**
      * 滑动窗口
      *

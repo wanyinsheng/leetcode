@@ -6,6 +6,7 @@ package leet_202204;
  * @Version 1.0
  **/
 public class SortList {
+
     public ListNode sortList(ListNode head) {
         return sortList(head, null);
     }

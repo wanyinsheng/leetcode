@@ -6,6 +6,7 @@ package leet_202204;
  * @Version 1.0
  **/
 public class HammingWeight {
+
     /**
      * 方法一：循环检查二进制位
      * @param n

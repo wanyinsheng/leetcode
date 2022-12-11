@@ -8,6 +8,7 @@ import java.util.Arrays;
  * @Version 1.0
  **/
 public class Intersection {
+
     /**
      * 这里使用排序之后，再去使用双指针遍历
      * @param nums1

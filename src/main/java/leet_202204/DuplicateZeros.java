@@ -6,6 +6,7 @@ package leet_202204;
  * @Version 1.0
  **/
 public class DuplicateZeros {
+
     public void duplicateZeros(int[] arr) {
         int possibleDups=0;
         int len=arr.length-1;

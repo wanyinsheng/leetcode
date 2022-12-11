@@ -6,6 +6,7 @@ package leet_202204;
  * @Version 1.0
  **/
 public class DetectCycle {
+
     public ListNode detectCycle(ListNode head) {
         ListNode slow=head;
         ListNode fast=head;

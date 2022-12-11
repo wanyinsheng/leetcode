@@ -7,6 +7,7 @@ package leet_202204;
  * @Version 1.0
  **/
 public class LengthOfLIS {
+
     public int lengthOfLIS(int[] nums) {
         //特殊值处理
         if(nums.length==0)

@@ -7,6 +7,7 @@ package leet_202204;
  * @Version 1.0
  **/
 public class HasCycle {
+
     public boolean hasCycle(ListNode head) {
         if (head == null || head.next == null) {
             return false;

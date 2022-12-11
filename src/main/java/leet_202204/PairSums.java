@@ -11,6 +11,7 @@ import java.util.List;
  * @Version 1.0
  **/
 public class PairSums {
+
     public List<List<Integer>> pairSums(int[] nums, int target) {
         //使用hashmap或者排序使用双指针
         ArrayList<List<Integer>> res = new ArrayList<>();

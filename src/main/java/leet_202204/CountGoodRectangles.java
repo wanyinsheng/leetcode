@@ -8,6 +8,7 @@ package leet_202204;
  * @Version 1.0
  **/
 public class CountGoodRectangles {
+
     public int countGoodRectangles(int[][] rectangles) {
         int ans = 0;
         int maxLen = 0;//遍历至当前的最大边长，如果有更大的，需要更新，并且重新计数

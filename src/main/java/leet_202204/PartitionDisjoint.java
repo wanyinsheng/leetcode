@@ -6,6 +6,7 @@ package leet_202204;
  * @Version 1.0
  **/
 public class PartitionDisjoint {
+
     public int partitionDisjoint(int[] nums) {
         int n = nums.length;
         //整个数组的最大值

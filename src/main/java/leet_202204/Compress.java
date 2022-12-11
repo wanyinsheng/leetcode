@@ -7,6 +7,7 @@ package leet_202204;
  **/
 public class Compress {
 
+
     public int compress(char[] chars) {
             int n=chars.length;
             return 0;

@@ -12,6 +12,7 @@ import java.util.Queue;
  * @Version 1.0
  **/
 public class LevelOrder {
+
     public List<List<Integer>> levelOrder(TreeNode root) {
         LinkedList<List<Integer>> lists = new LinkedList<>();
 

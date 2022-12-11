@@ -6,6 +6,7 @@ package leet_202204;
  * @Version 1.0
  **/
 public class RotateString {
+
     public boolean rotateString(String s, String goal) {
         int m = s.length();
         int n = goal.length();

@@ -6,6 +6,7 @@ package leet_202204;
  * @Version 1.0
  **/
 public class CountSubstrings {
+
     public int countSubstrings(String s) {
         int n=s.length();
         int ans=0;

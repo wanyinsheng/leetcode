@@ -6,6 +6,7 @@ package leet_202204;
  * @Version 1.0
  **/
 public class GetIntersectionNode {
+
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         if(headA==null||headB==null){
             return null;

@@ -6,6 +6,7 @@ package leet_202204;
  * @Version 1.0
  **/
 public class RemoveElement {
+
     public int removeElement(int[] nums, int val) {
         int n=nums.length;
         int newIndex=0;
