@@ -7,6 +7,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class MaximumDifference {
+
     public int maximumDifference(int[] nums) {
         int maxDiff=Integer.MIN_VALUE;
         for (int i = 0; i <nums.length-1 ; i++) {

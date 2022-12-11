@@ -6,6 +6,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class SumFourDivisors {
+
     boolean flag = false;//是否为四个因子
     public int sumFourDivisors(int[] nums) {
         int ans = 0;

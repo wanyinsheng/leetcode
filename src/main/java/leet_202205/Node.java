@@ -8,6 +8,7 @@ import java.util.List;
  * @Version 1.0
  **/
 public class Node {
+
     public int val;
     public List<Node> children;
 

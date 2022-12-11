@@ -9,6 +9,7 @@ import java.util.HashMap;
  * @Version 1.0
  **/
 public class NextGreaterElement {
+
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         ArrayDeque<Integer> stack = new ArrayDeque<>();
 

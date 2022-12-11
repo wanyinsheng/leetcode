@@ -7,6 +7,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class FindCircleNum {
+
     public int findCircleNum(int[][] isConnected) {
         int cities=isConnected.length;
         boolean[] visited=new boolean[cities];

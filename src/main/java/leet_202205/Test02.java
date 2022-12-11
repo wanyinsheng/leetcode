@@ -6,6 +6,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class Test02 {
+
     public static void main(String[] args) {
         System.out.println(4%2.0==0);
 //        System.out.println(1&2);

@@ -6,6 +6,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class NumIslands {
+
     private char[][] grid;
     private int rows;
     private int cols;

@@ -10,6 +10,7 @@ import java.util.List;
  * @Version 1.0
  **/
 public class TargetIndices {
+
     public List<Integer> targetIndices(int[] nums, int target) {
         ArrayList<Integer> list = new ArrayList<>();
         int count=0,targetNum=0;

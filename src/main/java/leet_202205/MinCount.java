@@ -7,6 +7,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class MinCount {
+
     public int minCount(int[] coins) {
         int count=0;
         for(int num:coins)

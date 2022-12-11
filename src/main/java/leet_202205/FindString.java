@@ -7,6 +7,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class FindString {
+
     /**
      * 排序好的稀疏数组，那就使用二分查找
      * @param words

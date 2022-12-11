@@ -11,6 +11,7 @@ import java.util.List;
  * @Version 1.0
  **/
 public class AllPathsSourceTarget {
+
     ArrayList<List<Integer>> lists = new ArrayList<>();
     Deque<Integer> stack = new ArrayDeque<>();
     public List<List<Integer>> allPathsSourceTarget(int[][] graph) {

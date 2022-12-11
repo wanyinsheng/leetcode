@@ -11,6 +11,7 @@ import java.util.PriorityQueue;
  **/
 public class MedianFinder {
     //使用两个优先队列
+
     PriorityQueue<Integer> maxQueue;
     PriorityQueue<Integer> minQueue;
 

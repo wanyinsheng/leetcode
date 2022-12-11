@@ -9,6 +9,7 @@ import leet_202203.ListNode;
  * @Version 1.0
  **/
 public class DeleteNode {
+
     //给的是要删除的节点，因此要将，下一个节点的值，赋给当前节点，然后删除下一个节点
     public void deleteNode(ListNode node) {
         node.val=node.next.val;

@@ -7,6 +7,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class DigitSum {
+
     public String digitSum(String s, int k) {
         while(s.length()>k){
             //每次操作之后的字符串

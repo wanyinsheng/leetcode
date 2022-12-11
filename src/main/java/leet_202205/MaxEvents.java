@@ -8,6 +8,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class MaxEvents {
+
     public int maxEvents(int[][] events) {
 
         return 0;

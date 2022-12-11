@@ -8,6 +8,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class ClosedIsland {
+
     int[][] dirs = new int[][]{{0, 1}, {0, -1}, {-1, 0}, {1, 0}};
     int cols;
     int rows;

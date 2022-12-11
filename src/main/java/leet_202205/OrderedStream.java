@@ -9,6 +9,7 @@ import java.util.List;
  * @Version 1.0
  **/
 public class OrderedStream {
+
     int ptr = 1;
     String[] os;
 

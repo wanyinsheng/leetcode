@@ -9,6 +9,7 @@ import leet_202203.ListNode;
  * @Version 1.0
  **/
 public class MergeNodes {
+
     public ListNode mergeNodes(ListNode head) {
         if(head==null)
             return null;

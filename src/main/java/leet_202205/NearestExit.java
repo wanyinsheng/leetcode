@@ -9,6 +9,7 @@ import java.util.Queue;
  * @Version 1.0
  **/
 public class NearestExit {
+
     public int nearestExit(char[][] maze, int[] entrance) {
         int[][] dirs=new int[][]{{1,0},{-1,0},{0,1},{0,-1}};
         int rows=maze.length;

@@ -6,6 +6,7 @@ package leet_202206;
  * @Version 1.0
  **/
 public class TwoSum {
+
     public int[] twoSum(int[] numbers, int target) {
         for (int i = 0; i < numbers.length; ++i) {
             //寻找第二个数的时候使用二分查找

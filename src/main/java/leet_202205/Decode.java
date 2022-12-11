@@ -6,6 +6,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class Decode {
+
     public int[] decode(int[] encoded, int first) {
         int n=encoded.length+1;
         int[] arr=new int[n];

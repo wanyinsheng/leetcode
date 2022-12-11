@@ -7,6 +7,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class FinalValueAfterOperations {
+
     public int finalValueAfterOperations(String[] operations) {
         int sum=0;
         for(String op:operations){

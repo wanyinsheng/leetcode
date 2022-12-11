@@ -8,6 +8,7 @@ import leet_202203.ListNode;
  * @Version 1.0
  **/
 public class MiddleNode {
+
     /**
      * 两次遍历，第一次求长度，第二次直接获取节点值
      * @param head

@@ -7,6 +7,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class IsSubsequence {
+
     public boolean isSubsequence(String s, String t) {
         int n = s.length(), m = t.length();
         int i = 0, j = 0;

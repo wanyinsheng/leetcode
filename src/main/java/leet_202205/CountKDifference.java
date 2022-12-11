@@ -9,6 +9,7 @@ import java.util.HashMap;
  * @Version 1.0
  **/
 public class CountKDifference {
+
     public int countKDifference(int[] nums, int k) {
         int count=0;
         HashMap<Integer, Integer> map = new HashMap<>();

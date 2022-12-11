@@ -10,6 +10,7 @@ import java.util.List;
  * @Version 1.0
  **/
 public class ProductOfNumbers {
+
     private List<Integer> products;
     public ProductOfNumbers() {
         products = new ArrayList<>();

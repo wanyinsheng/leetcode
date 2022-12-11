@@ -6,6 +6,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class CompressString {
+
     public String compressString(String S) {
         if (S.length() == 0) { // 空串处理
             return S;

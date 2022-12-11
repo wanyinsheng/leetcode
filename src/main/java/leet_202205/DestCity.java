@@ -10,6 +10,7 @@ import java.util.List;
  * @Version 1.0
  **/
 public class DestCity {
+
     //终点不会成为起始点
     public String destCity(List<List<String>> paths) {
         HashSet<String> set = new HashSet<>();

@@ -7,6 +7,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class NumArray01 {
+
     int n;
     int[] a;
     int[] c;

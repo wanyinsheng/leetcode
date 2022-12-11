@@ -7,6 +7,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class BrowserHistory {
+
     int curr=-1;//未初始化首页
     String[] browse=new String[101];
     int end=0;//下一个将要访问的索引

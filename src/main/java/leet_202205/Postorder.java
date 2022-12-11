@@ -10,6 +10,7 @@ import java.util.List;
  * @Version 1.0
  **/
 public class Postorder {
+
     public List<Integer> postorder(Node root) {
         LinkedList<Integer> res = new LinkedList<>();
         helper(root,res);

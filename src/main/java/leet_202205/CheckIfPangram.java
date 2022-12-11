@@ -7,6 +7,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class CheckIfPangram {
+
     public boolean checkIfPangram(String sentence) {
         int[]letters=new int[26];
         for (int i = 0; i <sentence.length() ; i++) {

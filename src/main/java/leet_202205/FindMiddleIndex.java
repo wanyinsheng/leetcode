@@ -9,6 +9,7 @@ import java.util.Arrays;
  * @Version 1.0
  **/
 public class FindMiddleIndex {
+
     public int findMiddleIndex(int[] nums) {
         // 求数组的总和
         int total= Arrays.stream(nums).sum();

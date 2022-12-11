@@ -6,6 +6,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class ThirdMax {
+
     /**
      * 使用a,b,c分别表示最大值，第二大值，第三大值
      * @param nums

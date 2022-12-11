@@ -9,6 +9,7 @@ import java.util.List;
  * @Version 1.0
  **/
 public class CountMatches {
+
     public int countMatches(List<List<String>> items, String ruleKey, String ruleValue) {
         int count=0;
         for(List<String> item:items){

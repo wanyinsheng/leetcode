@@ -6,6 +6,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class CompareVersion {
+
     public int compareVersion(String version1, String version2) {
         int len1 = version1.length();
         int len2 = version2.length();

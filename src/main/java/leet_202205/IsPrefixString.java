@@ -9,6 +9,7 @@ import java.util.HashSet;
  * @Version 1.0
  **/
 public class IsPrefixString {
+
     public boolean isPrefixString(String s, String[] words) {
         String wordPre="";
        for(String str:words){

@@ -7,6 +7,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class SumBase {
+
     public int sumBase(int n, int k) {
         int sum=0;
         while(n>0){

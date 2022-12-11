@@ -8,6 +8,7 @@ import java.util.HashMap;
  * @Version 1.0
  **/
 public class AreOccurrencesEqual {
+
     public boolean areOccurrencesEqual(String s) {
         HashMap<Character, Integer> map = new HashMap<>();
 

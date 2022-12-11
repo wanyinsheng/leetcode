@@ -9,6 +9,7 @@ import java.util.LinkedList;
  * @Version 1.0
  **/
 public class AnimalShelf {
+
     LinkedList<int[]> dogQueue;
     LinkedList<int[]> catQueue;
     //初始化

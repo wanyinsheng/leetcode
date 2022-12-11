@@ -10,6 +10,7 @@ import java.util.Queue;
  * @Version 1.0
  **/
 public class UpdateMatrix {
+
     private int[][] dirs = new int[][]{{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
 
     public int[][] updateMatrix(int[][] mat) {

@@ -9,6 +9,7 @@ import java.util.Queue;
  * @Version 1.0
  **/
 public class ShortestPath {
+
     /**
      * BFS 因为可以消除障碍物，所以，使用三元组（i,j,res）res表示还可以消除的障碍物个数
      *

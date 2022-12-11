@@ -9,6 +9,7 @@ import java.util.ArrayDeque;
  * @Version 1.0
  **/
 public class DailyTemperatures {
+
     public int[] dailyTemperatures(int[] temperatures) {
         ArrayDeque<Integer> stack = new ArrayDeque<>();
 

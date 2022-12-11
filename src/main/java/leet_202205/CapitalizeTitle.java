@@ -8,6 +8,7 @@ package leet_202205;
  **/
 public class CapitalizeTitle {
 
+
     public String capitalizeTitle(String title) {
         //如果单词的长度为 1 或者 2 ，所有字母变成小写。否则，将单词首字母大写，剩余字母变成小写。
         int start=0;//每个单词开始的位置

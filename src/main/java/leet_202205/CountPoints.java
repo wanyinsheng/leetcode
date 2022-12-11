@@ -7,6 +7,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class CountPoints {
+
     public int[] countPoints(int[][] points, int[][] queries) {
         int[] ans=new int[queries.length];
         //遍历每一个查询

@@ -10,6 +10,7 @@ import java.util.Stack;
  * @Version 1.0
  **/
 public class AddTwoNumbers {
+
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         Stack<Integer> stack1 = new Stack<>();
         Stack<Integer> stack2 = new Stack<>();

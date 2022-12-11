@@ -6,6 +6,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class FloodFill {
+
     private int[][] dirs=new int[][]{{1,0},{0,1},{-1,0},{0,-1}};
     public int[][] floodFill(int[][] image, int sr, int sc, int newColor) {
         dfs(image,sr,sc,image[sr][sc],newColor);
