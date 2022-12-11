@@ -8,6 +8,7 @@ package leet_202203;
  * @Version 1.0
  **/
 public class ImageSmoother {
+
     /**
      * 遍历
      *

@@ -6,6 +6,7 @@ package leet_202203;
  * @Version 1.0
  **/
 public class Tree2str {
+
     public String tree2str(TreeNode root) {
         return null;
     }

@@ -8,6 +8,7 @@ package leet_202203;
  * @Version 1.0
  **/
 public class TrailingZeroes {
+
     /**
      * 其实就是求质因子是5的个数
      *

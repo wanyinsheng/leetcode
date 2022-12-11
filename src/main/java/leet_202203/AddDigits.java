@@ -5,6 +5,7 @@ package leet_202203;
  * @Date 2022/3/29 2:11 PM
  * @Version 1.0
  **/
+
 public class AddDigits {
     public int addDigits(int num) {
         while(num>10){

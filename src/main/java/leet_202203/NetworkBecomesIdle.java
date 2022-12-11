@@ -7,6 +7,7 @@ package leet_202203;
  * @Version 1.0
  **/
 public class NetworkBecomesIdle {
+
     public int networkBecomesIdle(int[][] edges, int[] patience) {
         return 0;
     }

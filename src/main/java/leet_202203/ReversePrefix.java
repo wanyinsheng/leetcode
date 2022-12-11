@@ -6,6 +6,7 @@ package leet_202203;
  * @Version 1.0
  **/
 public class ReversePrefix {
+
     public String reversePrefix(String word, char ch) {
         //先求出字符的第一个所索引位置
         int index=word.indexOf(ch);

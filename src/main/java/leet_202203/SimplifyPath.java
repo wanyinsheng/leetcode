@@ -6,6 +6,7 @@ package leet_202203;
  * @Version 1.0
  **/
 public class SimplifyPath {
+
     public String simplifyPath(String path) {
 
         return null;

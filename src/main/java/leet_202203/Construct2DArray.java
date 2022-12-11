@@ -7,6 +7,7 @@ package leet_202203;
  **/
 public class Construct2DArray {
     public int[][] construct2DArray(int[] original, int m, int n) {
+
         if(original.length!=m*n)
             return new int[0][];//返回一个空数组
         int[][] ans=new int[m][n];

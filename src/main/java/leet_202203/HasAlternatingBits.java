@@ -6,6 +6,7 @@ package leet_202203;
  * @Version 1.0
  **/
 public class HasAlternatingBits {
+
     public boolean hasAlternatingBits(int n) {
         int pre=-1;
         while (n != 0) {

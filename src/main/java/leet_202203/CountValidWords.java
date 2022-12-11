@@ -7,6 +7,7 @@ package leet_202203;
  * @Version 1.0
  **/
 public class CountValidWords {
+
     public int countValidWords(String sentence) {
         int n=sentence.length();
         int left=0;

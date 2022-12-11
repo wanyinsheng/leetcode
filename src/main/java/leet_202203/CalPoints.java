@@ -13,6 +13,7 @@ public class CalPoints {
     public int calPoints(String[] ops) {
         int result = 0;
 
+
         ArrayList<Integer> list = new ArrayList<Integer>();
         for (String op : ops) {
             int index = list.size();

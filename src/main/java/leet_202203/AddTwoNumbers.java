@@ -6,9 +6,7 @@ package leet_202203;
  * @Version 1.0
  **/
 public class AddTwoNumbers {
-    public static void main(String[] args) {
 
-    }
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         //就从头到尾遍历求和，即先从个位相加
         ListNode dummyNode = new ListNode(0);

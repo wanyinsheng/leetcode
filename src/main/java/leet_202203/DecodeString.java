@@ -9,6 +9,7 @@ import java.util.LinkedList;
  * @Version 1.0
  **/
 public class DecodeString {
+
     /**
      * 栈操作
      * 如果当前的字符为数位，解析出一个数字（连续的多个数位）并进栈

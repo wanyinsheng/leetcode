@@ -7,6 +7,7 @@ package leet_202203;
  * @Version 1.0
  **/
 public class ModifyString {
+
     public String modifyString(String s) {
         //先转成数组操作
         char[] chars = s.toCharArray();

@@ -7,6 +7,7 @@ package leet_202203;
  * @Version 1.0
  **/
 public class NumEnclaves {
+
     public static int[][] dirs = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
     private int m, n;
     private boolean[][] visited;

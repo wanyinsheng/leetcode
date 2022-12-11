@@ -10,6 +10,7 @@ package leet_202203;
  * @Version 1.0
  **/
 public class RemovePalindromeSub {
+
     public int removePalindromeSub(String s) {
         int n = s.length();
         for (int i = 0; i < n / 2; ++i) {

@@ -6,6 +6,7 @@ package leet_202203;
  * @Version 1.0
  **/
 public class NumberOfSteps {
+
     public int numberOfSteps(int num) {
         int result=0;
         while(num>0){

@@ -10,6 +10,7 @@ import java.util.HashSet;
  * @Version 1.0
  **/
 public class LongestWord {
+
     public String longestWord(String[] words) {
         //先对数组进行排序，先按长度排序，在按字典序排序
         Arrays.sort(words, new Comparator<String>() {
