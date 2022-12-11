@@ -6,6 +6,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class MajorityElement {
+
     /**
      * Boyer-Moore 投票算法
      *

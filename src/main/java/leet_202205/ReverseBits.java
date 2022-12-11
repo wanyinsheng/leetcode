@@ -7,6 +7,8 @@ package leet_202205;
  * @Version 1.0
  **/
 public class ReverseBits {
+
+
     public int reverseBits(int n) {
         int rev = 0;
         for (int i = 31; i >=0 && n != 0; i--) {

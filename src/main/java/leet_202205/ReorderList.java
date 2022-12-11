@@ -8,6 +8,7 @@ import leet_202203.ListNode;
  * @Version 1.0
  **/
 public class ReorderList {
+
     public void reorderList(ListNode head) {
         if(head==null)
             return;

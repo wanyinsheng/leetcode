@@ -8,6 +8,7 @@ import leet_202203.ListNode;
  * @Version 1.0
  **/
 public class ReverseList {
+
     public ListNode reverseList(ListNode head) {
         if(head==null||head.next==null)
             return head;

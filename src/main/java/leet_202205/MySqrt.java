@@ -6,6 +6,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class MySqrt {
+
     public int mySqrt(int x) {
         int left = 0;
         int ans = 0;

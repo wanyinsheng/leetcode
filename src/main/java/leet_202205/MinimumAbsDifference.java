@@ -11,6 +11,7 @@ import java.util.List;
  * @Version 1.0
  **/
 public class MinimumAbsDifference {
+
     public List<List<Integer>> minimumAbsDifference(int[] arr) {
         Arrays.sort(arr);
         System.out.println(Arrays.toString(arr));

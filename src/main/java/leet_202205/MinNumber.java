@@ -6,6 +6,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class MinNumber {
+
     public String minNumber(int[] nums) {
         String[] strs = new String[nums.length];
         for(int i = 0; i < nums.length; i++)

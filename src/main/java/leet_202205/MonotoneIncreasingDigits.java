@@ -6,6 +6,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class MonotoneIncreasingDigits {
+
     public int monotoneIncreasingDigits(int n) {
         char[] strN = Integer.toString(n).toCharArray();
         int i = 1;

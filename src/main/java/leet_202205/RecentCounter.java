@@ -10,6 +10,7 @@ import java.util.Queue;
  * @Version 1.0
  **/
 public class RecentCounter {
+
     //适用LinkedList来保存信息
     Queue<Integer> queue;
 

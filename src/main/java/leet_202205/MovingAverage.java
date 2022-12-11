@@ -11,6 +11,7 @@ import java.util.Queue;
  * @Version 1.0
  **/
 public class MovingAverage {
+
     Queue<Integer> queue=null;
     int size=0;//窗口大小
     int sum=0;//窗口内的和

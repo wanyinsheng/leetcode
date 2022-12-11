@@ -7,6 +7,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class MostWordsFound {
+
     public int mostWordsFound(String[] sentences) {
         int maxLen=0;
         //单词数=空格数+1

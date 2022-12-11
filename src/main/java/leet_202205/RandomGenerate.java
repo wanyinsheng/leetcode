@@ -10,6 +10,7 @@ import java.util.Random;
  * @Version 1.0
  **/
 public class RandomGenerate {
+
     public static int[] gene() {
         int maxLen = 10000;
         int maxNum = 1000;

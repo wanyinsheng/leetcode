@@ -8,6 +8,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class MissingNumber {
+
     /**
      *位运算 （异或运算）
      * x⊕x=0 和 x⊕0=x。

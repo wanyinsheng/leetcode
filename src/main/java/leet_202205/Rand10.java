@@ -6,6 +6,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class Rand10 {
+
     public int rand10() {
         int num=f1();
         if(num<=10)

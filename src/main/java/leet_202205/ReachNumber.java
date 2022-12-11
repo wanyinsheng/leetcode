@@ -7,6 +7,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class ReachNumber {
+
     public int reachNumber(int target) {
         //target是正负都无所谓，先变成正数
         target = Math.abs(target);

@@ -6,6 +6,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class MyLinkedList {
+
     private ListNode dummy;
     private int count;
     public MyLinkedList() {

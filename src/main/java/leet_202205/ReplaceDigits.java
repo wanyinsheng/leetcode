@@ -6,6 +6,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class ReplaceDigits {
+
     public String replaceDigits(String s) {
         int n = s.length();
         char[] cs = s.toCharArray();

@@ -12,6 +12,7 @@ import java.util.PriorityQueue;
  * @Version 1.0
  **/
 public class SmallestStringWithSwaps {
+
     /**
      *
      * 并查集，找连通分量

@@ -10,6 +10,7 @@ import java.util.Deque;
  * @Version 1.0
  **/
 public class MyQueue {
+
     Deque<Integer> inStack;
     Deque<Integer> outStack;
     public MyQueue() {

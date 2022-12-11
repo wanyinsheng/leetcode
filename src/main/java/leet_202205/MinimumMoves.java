@@ -7,6 +7,7 @@ package leet_202205;
  * @Version 1.0
  **/
 public class MinimumMoves {
+
     public int minimumMoves(String s) {
         if(s==null||s.length()==0)
             return 0;
