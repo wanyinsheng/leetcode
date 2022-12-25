@@ -6,7 +6,8 @@ package leet_202212;
 public class NumberOfWays {
 	public int numberOfWays(int startPos, int endPos, int k) {
 		int MOD = (int)1e9+7;
-		int[]
+		//int[]
+		return 0;
 
 	}
 }
