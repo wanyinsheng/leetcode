@@ -28,7 +28,7 @@ public class WiggleSort {
     }
 
     public static void main(String[] args) {
-        for (int i = 0; i <62 ; i++) {
+        for (int i = 0; i <54 ; i++) {
             int min = new Random().nextInt(59);
             while(String.valueOf(min).length()==1){
                 min = new Random().nextInt(59);
@@ -41,9 +41,9 @@ public class WiggleSort {
         for (int i = 0; i <3 ; i++) {
             System.out.println();
         }
-        for (int i = 0; i <62 ; i++) {
+        for (int i = 0; i <54 ; i++) {
             int di = 100;
-            int to = new Random().nextInt(6);
+            int to = new Random().nextInt(8);
             int sum=di+to;
             System.out.println(sum);
         }
