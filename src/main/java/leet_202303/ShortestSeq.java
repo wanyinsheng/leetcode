@@ -7,6 +7,6 @@ package leet_202303;
  **/
 public class ShortestSeq {
     public int[] shortestSeq(int[] big, int[] small) {
-
+        return null;
     }
 }
