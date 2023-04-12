@@ -12,6 +12,7 @@ public class 删除字符串中出现次数最少的字符 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String s = scanner.nextLine();
+        //用Map计数
         HashMap<Character, Integer> map = new HashMap<>();
         int minVal=Integer.MAX_VALUE;
         for(char c:s.toCharArray()){
@@ -24,7 +25,7 @@ public class 删除字符串中出现次数最少的字符 {
         }
         StringBuilder stringBuilder = new StringBuilder();
         for(char c :s.toCharArray()){
-            if(map.get(c)!=minVal){
+            if(map.get(c)!=minVal){//如果出现次数不是最小次数，拼接到结果字符串
                 stringBuilder.append(c);
             }
         }
