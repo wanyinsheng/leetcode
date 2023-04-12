@@ -12,8 +12,8 @@ public class 字符串变换最小字符串 {
         int left=0;
         int right=str.length()-1;
         //找最小字符的位置（将最小的字符移动到开头）
-        Character minChar='z';
-        int minIndex=0;
+        Character minChar='z';//初始化为最大的字符z
+        int minIndex=0;//最小字符索引位置
         for (int i = 0; i < str.length(); i++) {
             if(str.charAt(i)<minChar){
                 minChar = str.charAt(i);
@@ -32,6 +32,7 @@ public class 字符串变换最小字符串 {
             str=new String(chars);
         }
         //输出str
+        System.out.println(str);
 
     }
 }
