@@ -35,6 +35,7 @@ public class 矩阵扩散 {
                 }
             }
             array = arrayTemp;
+            //时间加一秒
             result++;
         }
     }
