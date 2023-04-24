@@ -9,5 +9,6 @@ package leet_202303;
 public class MaxRectangle {
     public String[] maxRectangle(String[] words) {
 
+        return null;
     }
 }
